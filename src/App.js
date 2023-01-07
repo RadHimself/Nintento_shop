@@ -1,5 +1,5 @@
 import Directory from './components/directory/directory.component';
-
+//Nintendo shop
 const App = () => {
 
 const categories = [

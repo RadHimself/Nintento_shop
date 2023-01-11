@@ -1,7 +1,7 @@
 import Home from './routes/home/home.component';
 import Navigation from './routes/navigation/navigaton.component';
 import { Routes, Route, Outlet } from 'react-router-dom';
-import SignIn from './routes/sign-in/sign.in-component';
+import SignIn from './routes/sign-in/sign-in.component';
 //Nintendo shop
 
 const Shop = () => {
